@@ -4,7 +4,7 @@
 <img align="right" alt="" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shvyrkaloff" alt="shvyrkaloff" /></a> </p>
+<p align="left"> </p>
 
 - 🔭 I’m currently working on **Messenger**
 
