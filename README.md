@@ -4,6 +4,7 @@
 <img align="left" alt="" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shvyrkaloff&label=Profile%20views&color=0e75b6&style=flat" alt="shvyrkaloff" /> </p>
 
+<p></p>
 - 🔭 I’m currently working on **Messenger**
 
 - 🌱 I’m currently learning **C#**
