@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matvey Shvyrkalov</h1>
 <h3 align="center">Asp.Net Full-Stack Junior Developer from Russia</h3>
 <img align="right" alt="" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<img align="right" alt="" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="left" alt="" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> </p>
