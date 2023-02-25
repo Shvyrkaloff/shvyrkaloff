@@ -3,7 +3,6 @@
 <img align="right" alt="" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <img align="right" alt="" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shvyrkaloff&label=Profile%20views&color=0e75b6&style=flat" alt="shvyrkaloff" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shvyrkaloff" alt="shvyrkaloff" /></a> </p>
 
