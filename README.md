@@ -4,7 +4,7 @@
 <img align="left" alt="" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<p align="left"> </p>
+<p align="left">
 
 - 🔭 I’m currently working on **Messenger**
 
@@ -15,7 +15,7 @@
 - 📫 How to reach me **mshvyrkaloff@icloud.com**
 
 - ⚡ Fun fact **I have excellent eyesight**
-
+ </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/shvyrkaloff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shvyrkaloff" height="30" width="40" /></a>
